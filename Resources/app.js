@@ -1,6 +1,6 @@
 var win = Ti.UI.createWindow({
 	backgroundColor : 'white',
-	exitOnClose : true,
+	exitOnClose : true
 });
 if (Ti.Platform.name == "android") {
 
